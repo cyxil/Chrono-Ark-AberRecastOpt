@@ -1,0 +1,9 @@
+{
+  "id": "AberRecastOpt",
+  "Title": "装备，遗物重铸【新】",
+  "Author": "Aber",
+  "Version": "1.0.1",
+  "Description": "删除营地炼金台限制，可无限次将装备或遗物重铸为随机同类物品，支持单个装备或遗物重铸。",
+  "DefaultAssetBundlePath": "",
+  "Cover": "Example.png"
+}
