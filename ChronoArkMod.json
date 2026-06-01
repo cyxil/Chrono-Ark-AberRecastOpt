@@ -1,9 +1,12 @@
 {
-  "id": "AberRecastOpt",
-  "Title": "装备，遗物重铸【新】",
-  "Author": "Aber",
-  "Version": "1.0.1",
-  "Description": "删除营地炼金台限制，可无限次将装备或遗物重铸为随机同类物品，支持单个装备或遗物重铸。",
-  "DefaultAssetBundlePath": "",
-  "Cover": "Example.png"
+    "id": "AberRecastOpt",
+    "Title": "装备，遗物重铸【新】【本地mod】",
+    "Author": "Aber",
+    "Version": "1.0.1",
+    "Description": "删除营地炼金台的使用次数限制（无限次重铸）\r\n支持单个装备或遗物直接重铸，无需放满两个槽位\r\n重铸出现4个随机遗物/装备供选择\n\n原modID：2948692706，目前原作者停MOD已无法使用，我在原基础上改造",
+    "DefaultAssetBundlePath": "",
+    "Cover": "Example.png",
+    "Uploader": "Aber",
+    "Visibility": "Public",
+    "WorkShopId": "3736667735"
 }
